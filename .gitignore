@@ -1,0 +1,8 @@
+# Ignoring sentencepiece model files
+*.model
+*.vocab
+
+
+# Ignoring datasets
+*.tsv
+

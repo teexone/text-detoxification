@@ -1,0 +1,10 @@
+data/
+models/
+notebooks/
+references/
+reports/
+src/
+.gitignore
+.gitkeep
+README.me
+requirements.txt
